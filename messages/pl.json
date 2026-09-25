@@ -1,0 +1,158 @@
+{
+  "app": {
+    "name": "socialapp",
+    "description": "Portal dla znajomych"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "profile": "Profil",
+    "friends": "Znajomi",
+    "messages": "Wiadomości",
+    "groups": "Grupy",
+    "settings": "Ustawienia",
+    "menu": "Menu",
+    "search": "Szukaj",
+    "logout": "Wyloguj",
+    "notifications": "Powiadomienia",
+    "themeDark": "Tryb ciemny"
+  },
+  "home": {
+    "title": "Aktualności",
+    "empty": "Brak postów. Dodaj znajomych, żeby zobaczyć ich wpisy."
+  },
+  "login": {
+    "title": "Zaloguj się",
+    "email": "Email",
+    "password": "Hasło",
+    "submit": "Zaloguj",
+    "error": "Nieprawidłowy email lub hasło.",
+    "mockHint": "Tryb DEV: dane mockowe. Konto: admin@admin.com / admin"
+  },
+  "post": {
+    "inGroup": "w grupie {group}",
+    "comments": "Komentarze"
+  },
+  "reactions": {
+    "like": "Lubię to",
+    "love": "Kocham",
+    "haha": "Haha",
+    "wow": "Wow",
+    "sad": "Smutne",
+    "label": "Reakcje"
+  },
+  "profile": {
+    "info": "Informacje",
+    "city": "Miasto",
+    "school": "Szkoła / praca",
+    "birthday": "Urodziny",
+    "about": "O mnie",
+    "friends": "Znajomi ({count})",
+    "wall": "Tablica",
+    "private": "Ta osoba ukryła swój profil.",
+    "wallPrivate": "Tablica tej osoby jest niedostępna.",
+    "seeAll": "Zobacz wszystkich",
+    "notFound": "Nie ma takiego użytkownika.",
+    "edit": {
+      "link": "Edytuj profil",
+      "title": "Edytuj profil",
+      "firstName": "Imię",
+      "lastName": "Nazwisko",
+      "cancel": "Anuluj",
+      "error": "Sprawdź dane: imię i nazwisko są wymagane, a data urodzenia nie może być z przyszłości."
+    }
+  },
+  "friends": {
+    "title": "Moi znajomi",
+    "requests": "Zaproszenia do znajomych",
+    "noRequests": "Brak nowych zaproszeń.",
+    "none": "Nie masz jeszcze znajomych.",
+    "family": "rodzina",
+    "online": "dostępny",
+    "accept": "Akceptuj",
+    "decline": "Odrzuć",
+    "seeAllRequests": "Zobacz wszystkie zaproszenia ({count})"
+  },
+  "messages": {
+    "title": "Wiadomości",
+    "empty": "Brak rozmów.",
+    "unread": "nowa",
+    "members": "Uczestnicy: {names}",
+    "noMessages": "Brak wiadomości.",
+    "back": "← Wszystkie rozmowy"
+  },
+  "groups": {
+    "title": "Moje grupy",
+    "empty": "Nie należysz do żadnej grupy.",
+    "private": "Grupa prywatna",
+    "public": "Grupa publiczna",
+    "members": "Członkowie ({count})",
+    "admin": "admin",
+    "chat": "Czat grupy",
+    "posts": "Posty w grupie",
+    "noPosts": "Brak postów w grupie."
+  },
+  "notifications": {
+    "title": "Powiadomienia",
+    "empty": "Brak powiadomień.",
+    "reaction": "{actor} zareagował(a) na Twój post",
+    "comment": "{actor} skomentował(a) Twój post",
+    "mention": "{actor} oznaczył(a) Cię we wpisie",
+    "wall_post": "{actor} napisał(a) na Twojej tablicy",
+    "friend_request": "{actor} zaprasza Cię do znajomych",
+    "friend_accept": "{actor} przyjął(ęła) Twoje zaproszenie",
+    "group_add": "{actor} dodał(a) Cię do grupy",
+    "reply": "{actor} odpowiedział(a) na Twój komentarz"
+  },
+  "search": {
+    "title": "Wyniki wyszukiwania: {q}",
+    "people": "Osoby",
+    "groups": "Grupy",
+    "none": "Brak wyników.",
+    "prompt": "Wpisz imię, nazwisko lub nazwę grupy."
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "theme": "Motyw",
+    "themes": {
+      "light": "Jasny",
+      "dark": "Ciemny",
+      "system": "Systemowy"
+    },
+    "language": "Język",
+    "languages": {
+      "pl": "Polski"
+    },
+    "profileVisibility": "Kto widzi mój profil",
+    "wallVisibility": "Kto widzi moją tablicę",
+    "visibility": {
+      "public": "Wszyscy",
+      "friends": "Znajomi",
+      "family": "Rodzina",
+      "custom": "Wybrane osoby"
+    },
+    "customHint": "Wybór osób dla opcji „Wybrane osoby” pojawi się w etapie prywatności.",
+    "save": "Zapisz",
+    "saved": "Zapisano ustawienia."
+  },
+  "common": {
+    "notFound": "Nie znaleziono strony.",
+    "backHome": "Wróć na stronę główną",
+    "loading": "Wczytywanie…",
+    "loadFailed": "Nie udało się wczytać.",
+    "reload": "Odśwież stronę"
+  },
+  "compose": {
+    "placeholderOwn": "Co słychać?",
+    "placeholderWall": "Napisz coś do: {name}",
+    "placeholderGroup": "Napisz coś w grupie",
+    "share": "Udostępnij",
+    "sending": "Wysyłanie…",
+    "message": "Napisz wiadomość…",
+    "send": "Wyślij",
+    "comment": "Napisz komentarz…",
+    "commentAction": "Skomentuj",
+    "reply": "Odpowiedz",
+    "replyPlaceholder": "Napisz odpowiedź…",
+    "replies": "Odpowiedzi"
+  }
+}
